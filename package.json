@@ -12,5 +12,20 @@
     "@factor/plugin-sitemap": "^1.0.0",
     "@factor/plugin-storage-s3": "^1.0.0",
     "@factor/theme-ultra": "^1.5.13"
+  },
+  "factor": {
+    "app": {
+      "name": "Factor L",
+      "description": "A business website for a friend's company",
+      "url": "https://buziness-in-sweden.herokuapp.com/",
+      "email": "igk19@rambler.ru"
+    },
+    "admins": [
+      "igk19@rambler.ru"
+    ],
+    "load": [
+      "app",
+      "server"
+    ]
   }
 }
