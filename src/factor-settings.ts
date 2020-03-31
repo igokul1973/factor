@@ -5,4 +5,8 @@
  * They allow you to set text and images, but also override components, routes and more.
  *
  */
-export default {}
+export default {
+    intro: {
+        title: "Толя! Тут мог бы быть твой сайт!"
+    }
+}
